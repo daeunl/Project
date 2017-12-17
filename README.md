@@ -3,7 +3,7 @@ Fullstack Web Develop Project
 
 ## 개발환경
 
-### 프론트엔드 (port:4001)
+### 프론트엔드 (port:3000)
 - React
 - React-router
 - Axios
